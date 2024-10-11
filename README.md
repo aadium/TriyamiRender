@@ -1,5 +1,6 @@
 # TriyamiRender
 TriyamiRender is designed to render 3D objects using OpenGL. It supports basic functionalities such as loading shaders, creating and rendering meshes and handling camera movements. The engine is built using C++ and leverages libraries such as GLFW for window management and input handling, GLEW for OpenGL extension loading, and GLM for mathematical operations.
+<br/>
 <img src="https://github.com/user-attachments/assets/3a257278-1984-4bc0-9c4f-48eafb364f75" width=500/>
 ## Features
 <li><b>Shader Management</b>: Load and compile vertex and fragment shaders.</li>
